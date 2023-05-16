@@ -1,0 +1,6 @@
+# Ignore virtual environment
+virtual/
+
+# Ignore database file
+db.sqlite3
+
